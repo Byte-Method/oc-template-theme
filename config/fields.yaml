@@ -1,0 +1,5 @@
+form:
+    fields:
+        site_name:
+            type: text
+            label: Site Name

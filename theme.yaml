@@ -1,8 +1,9 @@
 name: 'Theme Name'
-description: 'Theme description'
 author: 'Author'
 homepage: 'https://www.example.com'
-code: 'theme-name'
+description: 'Theme description'
 previewImage: assets/img/theme-preview.png
+code: 'theme-name'
+form: config/fields.yaml
 require:
     - rainlab.sitemap
