@@ -1,0 +1,8 @@
+name: 'Theme Name'
+description: 'Theme description'
+author: 'Author'
+homepage: 'https://www.example.com'
+code: 'theme-name'
+previewImage: assets/img/theme-preview.png
+require:
+    - rainlab.sitemap
